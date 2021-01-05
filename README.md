@@ -8,7 +8,7 @@ This little script can be assigned to a hotkey and used with "Script Shortcut" h
 
 or PME https://gumroad.com/l/pie_menu_editor
 
-or just open a new Text Editor window in Blender, paste the code, select 3 objects, where the last one to be selected is the one you want to align and press play button.
+In Blender, press the T Key to open the Tools Panel, select 3 objects (where the last one selected is the one you want to align) and then press ui the button.
 
 Author: AIG (Ivan Agibalov) and  Special thanks to:  @Sergey Kritskiy https://gumroad.com/kritskiy
 
