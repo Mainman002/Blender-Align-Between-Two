@@ -1,4 +1,5 @@
-# Align-Between-2-Objects-Button Blender 2.8x addon.
+# Align-Between-Two 
+Blender 2.8x, 2.9x, and 3.x addon.
 
  ### By AIG
 
