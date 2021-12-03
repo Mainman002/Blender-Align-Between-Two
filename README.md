@@ -14,3 +14,6 @@ In Blender, press the N Key to open the Tools Panel, click "Align Panel", select
 Author: AIG (Ivan Agibalov) and  Special thanks to:  @Sergey Kritskiy https://gumroad.com/kritskiy
 
 Based on an idea of Andreas Håkansson.
+
+![image](https://user-images.githubusercontent.com/11281480/144676127-02c0b174-7192-4c3d-aef4-45429371a160.png)
+
