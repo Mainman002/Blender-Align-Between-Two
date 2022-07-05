@@ -19,8 +19,8 @@ bl_info = {
     "author": "Ivan Agibalov, Sergey Kritskiy, Andreas Håkansson, Johnathan Mueller",
     "descrtion": "This script allows you to align any object along an axis between the centers of two other objects.",
     "blender": (2, 80, 0),
-    "version": (0, 1, 1),
-    "location": "View3D (ObjectMode) > Sidebar > Edit Tab",
+    "version": (0, 1, 2),
+    "location": "View3D (ObjectMode) > Sidebar > TMG > Between Two Tab",
     "warning": "",
     "category": "Object"
 }
