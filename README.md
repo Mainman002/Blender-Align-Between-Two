@@ -1,6 +1,8 @@
 # Align-Between-Two 
 Blender 2.8x, 2.9x, and 3.x addon.
 
+[Current Release 0.1.2](https://github.com/Mainman002/Blender-Align-Between-Two/releases/tag/0.1.2)
+
  ### By AIG
 
 This script allows you to align any object along an axis between the centers of two other objects. 
